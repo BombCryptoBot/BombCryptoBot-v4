@@ -1,0 +1,31 @@
+{
+	"lang": "en",
+	"key": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+	"wait_loading": 300,
+	"debug": 1,
+	"showDisplay": 1,
+	"profiles": {
+		"PROFILE_1": {
+			"metamask_pass": null,
+			"username": "user_of_profile_1",
+			"password": "pass_of_profile_1",
+			"account_heroes": 15,
+			"pathfind_renew_interval": 5,
+			"hero_test_after_maps": 5,
+			"hero_test_after_mins": 20,
+			"min_stam": 25,
+			"use_house": 0
+		},
+		"PROFILE_2": {
+			"metamask_pass": null,
+			"username": "user_of_profile_2",
+			"password": "pass_of_profile_2",
+			"account_heroes": 15,
+			"pathfind_renew_interval": 10,
+			"hero_test_after_maps": 5,
+			"hero_test_after_mins": 20,
+			"min_stam": 70,
+			"use_house": 1
+		}
+	}
+}

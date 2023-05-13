@@ -1,0 +1,15 @@
+numpy==1.20.1
+opencv_python
+Cython
+pycryptodome
+requests
+rsa
+setuptools
+pillow
+upscrot
+configparser==5.2.0
+unidecode
+selenium==3.141.0
+python-magic-bin; sys_platform != 'linux'
+python-magic; sys_platform == 'linux'
+pyvirtualdisplay; sys_platform == 'linux'
